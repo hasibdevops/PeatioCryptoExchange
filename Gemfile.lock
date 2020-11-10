@@ -64,7 +64,7 @@ GEM
       erubis (>= 2.6.6)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
-    bootstrap-sass (3.2.0.2)
+    bootstrap-sass (3.2.0.4)
       sass (~> 3.2)
     bootstrap-wysihtml5-rails (0.3.1.23)
       railties (>= 3.0)
@@ -402,7 +402,7 @@ GEM
     websocket (1.0.7)
     websocket-driver (0.5.1)
       websocket-extensions (>= 0.1.0)
-    websocket-extensions (0.1.1)
+    websocket-extensions (0.1.5)
     whenever (0.9.2)
       activesupport (>= 2.3.4)
       chronic (>= 0.6.3)
@@ -421,7 +421,7 @@ DEPENDENCIES
   bcrypt-ruby (~> 3.1.2)
   better_errors
   binding_of_caller
-  bootstrap-sass (~> 3.2.0.2)
+  bootstrap-sass (~> 3.2.0.4)
   bootstrap-wysihtml5-rails
   bourbon
   browser (~> 0.8.0)
